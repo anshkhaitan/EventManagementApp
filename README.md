@@ -17,8 +17,6 @@ Firebase service used:
 
 App funcationality:
 1. Login Page for both users
-screenshot
-![](login.JPG) 
 
 2. Admin user:
    a. admin dashboard
